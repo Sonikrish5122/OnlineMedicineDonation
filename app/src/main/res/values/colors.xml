@@ -11,4 +11,6 @@
     <color name="shrine_pink_900">#FF442C2E</color>
     <color name="purple">#6200EE</color>
     <color name="pink">#DB3D91</color>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorWhite">#FCFAFA</color>
 </resources>
