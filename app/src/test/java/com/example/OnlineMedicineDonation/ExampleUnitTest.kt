@@ -1,4 +1,4 @@
-package com.example.madpractical_3_20012011078
+package com.example.OnlineMedicineDonation
 
 import org.junit.Test
 

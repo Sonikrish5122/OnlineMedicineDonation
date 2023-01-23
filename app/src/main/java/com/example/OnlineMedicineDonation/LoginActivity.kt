@@ -1,11 +1,11 @@
-package com.example.madpractical_3_20012011078
+package com.example.OnlineMedicineDonation
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.method.LinkMovementMethod
 import android.widget.TextView
-import com.example.madpractical_3_20012011078.databinding.ActivityLoginBinding
+import com.example.OnlineMedicineDonation.databinding.ActivityLoginBinding
 
 class LoginActivity : AppCompatActivity() {
     private lateinit var binding: ActivityLoginBinding

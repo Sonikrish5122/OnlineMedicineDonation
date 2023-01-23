@@ -1,4 +1,4 @@
-package com.example.madpractical_3_20012011078
+package com.example.OnlineMedicineDonation
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

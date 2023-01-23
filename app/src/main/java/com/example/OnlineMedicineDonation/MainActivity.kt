@@ -1,10 +1,10 @@
-package com.example.madpractical_3_20012011078
+package com.example.OnlineMedicineDonation
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.WindowCompat
-import com.example.madpractical_3_20012011078.databinding.ActivityMainBinding
+import com.example.OnlineMedicineDonation.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

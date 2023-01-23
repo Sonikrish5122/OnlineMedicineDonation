@@ -1,11 +1,11 @@
-package com.example.madpractical_3_20012011078
+package com.example.OnlineMedicineDonation
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.method.LinkMovementMethod
 import android.widget.TextView
-import com.example.madpractical_3_20012011078.databinding.ActivityRegistrationBinding
+import com.example.OnlineMedicineDonation.databinding.ActivityRegistrationBinding
 
 class RegistrationActivity : AppCompatActivity() {
     private lateinit var binding: ActivityRegistrationBinding

@@ -7,20 +7,20 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="OnlineMedicineDonation"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MADPractical3_20012011078"
+        android:theme="@style/OnlineMedicineDonation"
         tools:targetApi="31">
         <activity
             android:noHistory="true"
-            android:label="Registration UI-MAD Practical"
+            android:label="OnlineMedicineDonation"
             android:name=".RegistrationActivity"
             android:exported="false" />
         <activity
             android:noHistory="true"
             android:name=".LoginActivity"
-            android:label="Login UI-MAD Practical"
+            android:label="OnlineMedicineDonation"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
